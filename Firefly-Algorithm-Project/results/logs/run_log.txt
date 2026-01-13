@@ -1,0 +1,5 @@
+Firefly Algorithm Execution Log
+Number of fireflies: 15
+Max generations: 50
+Final best solution: 2.945642279261751e-06
+Final best fitness: 8.676808437374363e-12

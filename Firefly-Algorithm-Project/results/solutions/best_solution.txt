@@ -1,0 +1,2 @@
+Best solution x = 2.945642279261751e-06
+Best fitness f(x) = 8.676808437374363e-12
